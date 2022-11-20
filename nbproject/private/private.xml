@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/web/Menu.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/web/Home.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/control/Order/BuyNowController.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/web/Category.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/control/Order/CartController.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/entity/Order.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/dao/ProductDao.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/web/Footer.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/entity/Product.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/control/account/LoginController.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/dao/UserDao.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/control/product/EditController.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/entity/Category.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/control/product/DeleteController.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/control/Order/OrderManagerController.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/control/Order/BuyController.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/control/account/SellerController.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/control/Order/DeleteOrder.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/web/Cart.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/web/Detail.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/control/product/DetailController.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/web/css/manager.css</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/entity/OrderDetail.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/web/Login.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/web/ManagerOrder.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/web/css/detail.css</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/control/Order/AddToCartController.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/control/product/AddController.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/web/Edit.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/web/Signup.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/control/Order/UpdateOrderController.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/dao/OrderDao.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/control/product/HomeController.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/control/product/CategoryController.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/control/account/SignupController.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/control/product/MangerController.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/entity/Account.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/control/account/LogoutController.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/src/java/control/product/SearchController.java</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/web/ManagerProduct.jsp</file>
+            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Sieuthigiadung/web/css/login.css</file>
+        </group>
+    </open-files>
+</project-private>
